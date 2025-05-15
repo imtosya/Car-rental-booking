@@ -1,8 +1,10 @@
  # Car-rental-booking
 Presentation: https://www.canva.com/design/DAGnbtRdZKE/syJJj0e3SNV98K42Cf5jnA/edit?utm_content=DAGnbtRdZKE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-# Student ID: 240141020
+## Student ID: 240141020
 Name: Aiturgan
+
 Surname: Kalenderova 
+
 Group: ComCEH24
 
 Overview of the "Car Rental System".
